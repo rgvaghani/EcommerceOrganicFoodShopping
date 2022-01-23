@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EcommerceOrganicFoodShopping/static/css/main.2a4b6b9c.css",
+    "main.js": "/EcommerceOrganicFoodShopping/static/js/main.0d5a4fcf.js",
+    "static/media/organic-about-1.png": "/EcommerceOrganicFoodShopping/static/media/organic-about-1.00654a0ff0de2b0bc1f2.png",
+    "static/media/organic-slider.png": "/EcommerceOrganicFoodShopping/static/media/organic-slider.f6cdc2bf7825986f7668.png",
+    "static/media/organic-bg-1.png": "/EcommerceOrganicFoodShopping/static/media/organic-bg-1.63bf16e69d74040b8f1a.png",
+    "static/media/organic-pattern-1.png": "/EcommerceOrganicFoodShopping/static/media/organic-pattern-1.8009570c9abe9ec6aed4.png",
+    "index.html": "/EcommerceOrganicFoodShopping/index.html",
+    "main.2a4b6b9c.css.map": "/EcommerceOrganicFoodShopping/static/css/main.2a4b6b9c.css.map",
+    "main.0d5a4fcf.js.map": "/EcommerceOrganicFoodShopping/static/js/main.0d5a4fcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a4b6b9c.css",
+    "static/js/main.0d5a4fcf.js"
+  ]
+}
